@@ -1,5 +1,7 @@
 # constr
 
+[Paper link] https://openreview.net/forum?id=IdhNZeIE7i7
+
 The code should be compatible with `python>=3.7`. Please raise issues if you run into any problems.
 
 To install the packages required:
