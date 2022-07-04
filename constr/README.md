@@ -1,4 +1,4 @@
-# constr
+# Unifying physical systems’ inductive biases in neural ODE using dynamics constraints
 
 [Paper link] https://openreview.net/forum?id=IdhNZeIE7i7
 
